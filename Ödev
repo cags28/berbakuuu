@@ -1,3 +1,9 @@
 print ("hello,world!")
 print ("kutuphaneden yaziyorum")
 print ("japon balığı aldım")
+a=15+98
+b=45-36
+c=24*74
+d=68/4
+e=95**5
+f123%5
