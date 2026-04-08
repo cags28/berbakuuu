@@ -7,3 +7,4 @@ c=24*74
 d=68/4
 e=95**5
 f123%5
+print ("bugun sınava gireceğiz")
